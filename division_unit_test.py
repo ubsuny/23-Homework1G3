@@ -4,18 +4,7 @@ def division(x,y):
   else:
     return x/y
 
-print(division(2,1))
-print("should return 2")
-print("---")
-print(division(0,5))
-print("should return 0")
-print("---")
-print(division(1,2))
-print("should return 0.5")
-print("---")
-print(division(1,0))
-print("should return ERROR")
-print("---")
-print(division(1,0))
-print("should return ERROR")
-print("---")
+assert (division(2,1)) == 2
+assert (division(0,5)) == 0
+assert (division(1,2)) == 0.5
+assert (division(1,0)) == "ERROR"
