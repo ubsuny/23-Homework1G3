@@ -15,4 +15,6 @@ def division(x, y):
 assert division(2, 1) == 2
 assert division(0, 5) == 0
 assert division(1, 2) == 0.5
+
+# Assert that division(1, 0) should return "ERROR" since it's dividing by zero
 assert division(1, 0) == "ERROR"
