@@ -10,7 +10,7 @@ def division(x, y):
     float or str: If 'y' is not zero, returns the result of 'x' divided by 'y'.
                   If 'y' is zero, returns the string "ERROR" (division by zero is undefined).
     """
-        if y == 0:
+    if y == 0:
         # If 'y' is 0, return the string "ERROR" (division by zero is undefined)
         return "ERROR"
     else:
