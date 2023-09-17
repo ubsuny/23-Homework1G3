@@ -8,6 +8,7 @@ There are a number of platforms for quantum computing, including IBM Quantum, Go
 
 ### 3 Install Required Software: 
 To run quantum programs on our local PC, the majority of quantum computing platforms offer software development kits (SDKs) and simulators. These SDKs, which frequently include Python libraries for quantum programming, must be installed.
+[Qiskit](https://qiskit.org/documentation/getting_started.html)
 
 ### 4 Account Set up:
 Create an account on the website for the quantum computing platform by registering there. We will be able to use this account to access our quantum computers and services.
