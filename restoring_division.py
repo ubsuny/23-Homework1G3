@@ -22,6 +22,7 @@ def restoring_division(numerator, denominator):
     # After the loop, 'quotient' holds the number of times 'denominator' went into 'numerator'
     # 'remainder' holds the remaining value after division
     return quotient, remainder
+    
 
 # Example usage:
 quotient, remainder = restoring_division(10, 3)
