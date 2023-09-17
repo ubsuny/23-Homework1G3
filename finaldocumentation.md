@@ -98,5 +98,12 @@ The limitations of using a quantum computer for division, as demonstrated in thi
 * **Error Handling:** Quantum computers are susceptible to errors due to noise and decoherence. Handling errors in quantum division would be challenging and resource-intensive.
 
 Despite these limitations, quantum computers could potentially be used for division in the future, especially if they are optimized for basic arithmetic operations and if error handling techniques are improved. However, for now, classical division algorithms are much more efficient and practical for most applications.
+![Alt text](image-1.png)
+[CBINSIGHTS](https://www.cbinsights.com/research/quantum-computing-classical-computing-comparison-infographic/)
+
+- Major Sources:
+1. Google Bard
+2. ChatGPT
+
 
 
