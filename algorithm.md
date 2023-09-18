@@ -18,6 +18,5 @@ and |1>.
 
 10. Visualize the circuit
 
-...
 11. Test the rest in your local computer and assign job to server qunatum computer.
 
